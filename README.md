@@ -2,11 +2,7 @@
 
 All participants in the NYCTech Slack are expected to follow the code of conduct. Administrators will enforce this code.
 
-# The Quick Version
-
 NYCTech Slack is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any chat topic. Participants violating these rules will be expelled from the group at the sole discretion of the group administrators.
-
-# The Less Quick Version
 
 Harassment includes offensive comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images, deliberate intimidation, stalking, sustained disruption of discussions or other events, and unwelcome sexual attention.
 
