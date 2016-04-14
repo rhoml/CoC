@@ -12,7 +12,7 @@ Harassment includes offensive comments related to gender, sexual orientation, di
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please notify an administrator immediately.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please notify an administrator immediately. We can be pinged directly or via the #admin channel.
 
 [This code of conduct is adapted from [Conference Code of Conduct](http://confcodeofconduct.com) under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US), additional content adapted from the [Gopher Academy Slack Code of Conduct](https://docs.google.com/document/d/1YO_xIZPhD1OsquKdCuAq-fFECs8b37wfhVRfnx3DjzM/edit) and forked from the tech404 CoC]
 
