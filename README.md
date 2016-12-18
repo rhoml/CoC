@@ -1,8 +1,8 @@
-# NYCTech Slack Code of Conduct
+# SYDTech Slack Code of Conduct
 
-All participants in the NYCTech Slack are expected to follow the code of conduct. Administrators will enforce this code.
+All participants in the SYDTech Slack are expected to follow the code of conduct. Administrators will enforce this code.
 
-NYCTech Slack is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any chat topic. Participants violating these rules will be expelled from the group at the sole discretion of the group administrators.
+SYDTech Slack is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any chat topic. Participants violating these rules will be expelled from the group at the sole discretion of the group administrators.
 
 Harassment includes offensive comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images, deliberate intimidation, stalking, sustained disruption of discussions or other events, and unwelcome sexual attention.
 
@@ -16,10 +16,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If you have any issues or need help, please feel free to reach out to anyone on this list:
 
-* Camille Fournier
-* Harry Heymann
-* Kellan Elliott-McCrea
-* James Turnbull
+* Rhommel Lamas - @rhoml
 
 ## Role of Admins
 
